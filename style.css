@@ -88,3 +88,20 @@ body {
 		margin-bottom: 30px;
 	}
 }
+
+@media screen and (max-width: 320px) {
+	.title {
+		font-size: 20px;
+	}
+	.tile {
+		font-size: 25px;
+	}
+	.display {
+		font-size: 15px;
+	}
+	#reset {
+		font-size: 14px;
+		margin-bottom: 20px;
+	}
+	
+}
